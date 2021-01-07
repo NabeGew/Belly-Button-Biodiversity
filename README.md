@@ -1,2 +1,2 @@
 # Belly-Button-Biodiversity
-https://github.com/NabeGew/Belly-Button-Biodiversity/index.html
+https://github.com/NabeGew/Belly-Button-Biodiversity/
